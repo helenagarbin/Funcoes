@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710200185 source:c:\cursolinguagemc\exerciciosfunções\ex14\ex14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
